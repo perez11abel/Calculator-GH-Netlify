@@ -147,7 +147,6 @@ export default function App() {
     <>
       <div className="title-container">
         <div className="title">React Calculator</div>
-        <div className="title">Branch Test</div>
       </div>
       <div className="calculator-grid">
         <div className="output">
